@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Udacity Practical Quiz</string>
+    <string name="action_opt">Profile</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="yourself">Write about yourself!</string>
+    <string name="next_btn">Next</string>
+
+    <string name="plc_name">Paras Sidhu</string>
+    <string name="plc_email">wonttell@spam.com</string>
+    <string name="plc_yourself">I can\'t say more than my LinkedIn Profile does!</string>
+
+</resources>
